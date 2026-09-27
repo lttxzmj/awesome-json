@@ -7,6 +7,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## Contents
 * [Bitcoin](#bitcoin)
+* [Business](#business)
 * [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
@@ -34,6 +35,10 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
 
 > Pro Tip: Check out [Cryptocurrency Market Capitalizations](https://api.coinmarketcap.com/v1/ticker/) for more cryptocurrency prices.
+
+## Business
+
+* [Indie Software Business Case Studies (ProofStack)](https://raw.githubusercontent.com/lttxzmj/proofstack-dataset/master/data/cases.json) - 40+ audited business-model cases with evidence-graded, dated source links; CC BY 4.0.
 
 ## Climate
 
